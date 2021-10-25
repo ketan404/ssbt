@@ -1,0 +1,27 @@
+@extends('layouts.cfe')
+@section('content')
+      <!-- Page Content -->
+     <div class="py-12">
+        <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
+            <div class="bg-white overflow-hidden shadow-xl sm:rounded-lg">
+                <div class="p-6 sm:px-20 bg-white border-b border-gray-200">
+                    <div class="mt-8 text-2xl">
+			Subscription Plans
+                    </div>
+                </div>
+
+<div class="bg-gray-200 bg-opacity-25 grid  ">
+<div class="p-6 sm:px-10 bg-white border-b border-gray-200">
+        <div class="ml-12">
+                    @foreach($plans as $plan)
+                        <div>
+                            <a href="/payments/{{ $plan->identifier }}">{{$plan->title}}</a>
+                        </div>
+                    @endforeach
+<div> &nbsp;</div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@endsection
