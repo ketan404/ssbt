@@ -8,7 +8,7 @@
                 <div class="p-6 sm:px-20 bg-white border-b border-gray-200">
 
     <div class="mt-8 text-2xl">
-        Welcome to Children For Environment!
+        Welcome to SSBT
     </div>
 
     <div class="mt-6 text-gray-500">
@@ -24,7 +24,7 @@
         <div class="ml-6">
             <div class="mt-2 text-gray-500">
 		<p style="text-align:justify; padding-right:3%;">
-		Children For Environment is a platform to educate and sensitize children about the beauty, magnificence, and importance of nature to enable them to grow up as nature loving and preserving adults given that the children of today will become the leaders of tomorrow. It started as a Facebook page on March 31, 2021, and the success of the page coupled with feedback from parents and children inspired us to make the information being provided more easily accessible via a mobile app.
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
             </div>
         </div>
     </div>
@@ -57,10 +57,7 @@
         <div class="ml-6">
             <div class="mt-2 text-gray-500">
 		<ul>
-		<li>For tech issues:<br /> <a href="mailto:techsupport@childrenforenvironment.com" style="color:blue;">techsupport@childrenforenvironment.com</a></li>
-		<li>For content specific queries / issues / suggestions: <a href="mailto:content@childrenforenvironment.com" style="color:blue;">content@childrenforenvironment.com</a></li>
-		<li>For investors: <a href="mailto:IR@childrenforenvironment.com" style="color:blue;">IR@childrenforenvironment.com</a></li>
-		<li>For media queries: <a href="mailto:MR@childrenforenvironment.com" style="color:blue;">MR@childrenforenvironment.com</a></li>
+		<li>For information:<br /> <a href="mailto:techsupport@childrenforenvironment.com" style="color:blue;">info@ssbt.org</a></li>
 		</ul>
             </div>
         </div>
