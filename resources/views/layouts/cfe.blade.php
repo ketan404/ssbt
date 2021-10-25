@@ -98,7 +98,7 @@
                 <!-- Logo -->
                 <div class="flex-shrink-0 flex items-center">
                     <a href="/">
-                        <img src="/i/cfe_logo_100.png" />
+                        <img src="/i/logo_100.png" />
                     </a>
                 </div>
 
