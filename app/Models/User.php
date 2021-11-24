@@ -81,4 +81,8 @@ class User extends Authenticatable
         }
         return false;
     }
+
+    function user_profiles(){
+        return $this->hasOne('App\Models\UserProfile');
+    }
 }

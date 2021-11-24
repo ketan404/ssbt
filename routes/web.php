@@ -19,6 +19,12 @@ use App\Http\Controllers\ProfileController;
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('/profile', function () {
+    return view('profile');
+});
+
+Route::post('/save_profile','\App\Http\Controllers\UserProfileController@save');
 Route::get('/home', function () {
     return view('home');
 });
