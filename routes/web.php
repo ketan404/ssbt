@@ -20,7 +20,7 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/profile', function () {
+Route::get('/profile/{id}', function () {
     return view('profile');
 });
 
