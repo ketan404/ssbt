@@ -44,11 +44,5 @@
                 </x-jet-button>
             </div>
         </form>
-       <a href="{{ route('social.oauth', 'google') }}" class="btn btn-danger btn-block">
-            Login with Google
-       </a> | 
-       <a href="{{ route('social.oauth', 'facebook') }}" class="btn btn-danger btn-block">
-            Login with Facebook
-       </a>
     </x-jet-authentication-card>
 </x-guest-layout>

@@ -15,17 +15,16 @@
     </div>
 </div>
 
-<div class="bg-gray-200 bg-opacity-25 grid grid-cols-1 md:grid-cols-2">
+<div class="bg-gray-200 bg-opacity-25 grid grid-cols-1 md:grid-cols-1">
     <div class="p-6">
         <div class="flex items-center">
-            <div class="ml-4 text-lg text-gray-600 leading-7 font-semibold">About</div>
+            <div class="ml-4 text-lg text-gray-600 leading-7 font-semibold">शपथपत्र</div>
         </div>
 
         <div class="ml-6">
             <div class="mt-2 text-gray-500">
 		<p style="text-align:justify; padding-right:3%;">
-<b>Address Proof: Aadhar Card/PAN Card/Driving License/Passport/Other proof No.</b><br><br>
-: शपथपत्र :<br><br>
+		<img src="/images/equality.jpg" /><br />
 खुद को घोषित करता हूँ कि मेरा/मेरी एक जात एक धर्म भारतीय है। मेरी जात मेरा धर्म खुद मैं तय करूंगा, इसका अधिकार सिर्फ मै मुझे है। मैं भारत की भूमि से पैदा हुआ हुँ। मेरा अधिकार संपूर्ण भारत पर है। जरूरत पढने पर भारत माता की रक्षा के लिए अपने प्राणों का बलिदान देकर रक्षा करूँगा। मैं यह निर्णय किसीके दबाव या किसी लालच में आकर नहीं ले रहा हूँ यह मेरा खुद का निर्णय है। जिसे मैं खुद जवाबदेह हूँ। उपरोक्त जानकारी सत्य है। कोई गलत जानकारी होती है उसके लिए मैं खुद जवाबदार हूँ|<br><br>
 यह निर्णय भारत और मेरे भलाई के लिए ले रहा हूँ।<br><br>
 मैं इससे सहमत हूँ<br><br>
@@ -62,8 +61,6 @@
 17. उपरोक्त सभी बेनीफिट आपके आपको मिलना शुरू होगा। तबी मिलेगा जब तक 51% लोग सदस्यता स्विकार करेंगे उसके बाद यह बेनीफीट आपको मिळना शुरू होगा|<br><br>
 18. मै आगे चल रहा हूँ। मेरे पिछे आप आओगे तो देश को लगे जाती धर्म के कॅन्सर से अपने आपको और अपने बच्चो को आझादी दे सकते है। आपका यही बलिदान इतिहास में हमेशा रहेगा और आपको गर्व से याद किया जायेगा|<br><br>
 ॥ में यह कर सकता हूँ मैं सहमत हूँ ॥<br><br>
-Date:
-
 </div>
         </div>
     </div>
@@ -78,29 +75,6 @@ Date:
         </div>
     </div>
 
-    <div class="p-6 border-t border-gray-200">
-        <div class="flex items-center">
-        </div>
-
-        <div class="ml-6">
-            <div class="mt-2 text-gray-500">
-            </div>
-        </div>
-    </div>
-
-    <div class="p-6 border-t border-gray-200 md:border-l">
-        <div class="flex items-center">
-            <div class="ml-4 text-lg text-gray-600 leading-7 font-semibold">Contact</div>
-        </div>
-
-        <div class="ml-6">
-            <div class="mt-2 text-gray-500">
-		<ul>
-		<li>For information:<br /> <a href="mailto:techsupport@childrenforenvironment.com" style="color:blue;">info@ssbt.org</a></li>
-		</ul>
-            </div>
-        </div>
-    </div>
 </div>
             </div>
 @endsection
