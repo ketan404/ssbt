@@ -121,7 +121,7 @@
                             <x-jet-dropdown-link href="{{ route('profile.show') }}">
                                 {{ __('Account') }}
                             </x-jet-dropdown-link>
-                            <x-jet-dropdown-link href="/account/profile/{{ auth()->user()->id }}">
+                            <x-jet-dropdown-link href="/profile/{{ auth()->user()->id }}">
                                 {{ __('Profile') }}
                             </x-jet-dropdown-link>
 
