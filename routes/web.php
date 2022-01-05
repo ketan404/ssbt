@@ -37,6 +37,10 @@ Route::get('/team', function () {
     return view('team');
 })->name('team');
 
+Route::get('/donation', function () {
+    return view('donation');
+})->name('donation');
+
 Route::get('/privacy_policy', function () {
     return view('privacy_policy');
 })->name('privacy_policy');

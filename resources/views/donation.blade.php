@@ -8,10 +8,14 @@
                 <div class="p-6 sm:px-20 bg-white border-b border-gray-200">
 
     <div class="mt-8 text-2xl">
-        SSBT
+        Donation
     </div>
-
-    <div class="mt-6 text-gray-500">
+    <div class="mt-6 text-black-500">
+	<p>Here are some details for donation</p>
+	<p>Bank Name:State Bank Of India</p>
+	<p>Account holder name: SAMTA SAMAJ BHANDHANI TRUST</p>
+	<P>Account Number:37975816710 </P>
+	<p>IFSC: SBIN0014730</P>
     </div>
 </div>
 </div>
