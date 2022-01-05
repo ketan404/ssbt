@@ -32,7 +32,7 @@
 
     <div class="p-6 border-t border-gray-200 md:border-t-0 md:border-l">
         <div class="flex items-center">
-            <div class="ml-4 text-lg text-gray-600 leading-7 font-semibold">Name here</div>
+            <div class="ml-4 text-lg text-gray-600 leading-7 font-semibold">Mahadeo s/o Pandurang Mother name: Shrimabai</div>
         </div>
 <p>Vestibulum nisl magna, lacinia a urna id, maximus pulvinar purus. Aliquam bibendum a neque semper dictum. In hac habitasse platea dictumst. Quisque suscipit, odio vitae hendrerit aliquam, velit risus iaculis neque, eget iaculis nisi orci in eros. Vestibulum eget nisl ut odio convallis dapibus. Pellentesque accumsan aliquam ipsum ut porta. Phasellus molestie quis ipsum vel commodo.</p>
         <div class="ml-12">
@@ -58,7 +58,7 @@
 
     <div class="p-6 border-t border-gray-200 md:border-l">
         <div class="flex items-center">
-            <div class="ml-4 text-lg text-gray-600 leading-7 font-semibold">Name here</div>
+            <div class="ml-4 text-lg text-gray-600 leading-7 font-semibold">Sharda w/o Tukaram Mother name: Shrimabai</div>
         </div>
 		<div class="ml-12">
             <div class="mt-2 text-sm text-gray-500">
@@ -89,7 +89,7 @@
 
     <div class="p-6 border-t border-gray-200 md:border-l">
         <div class="flex items-center">
-            <div class="ml-4 text-lg text-gray-600 leading-7 font-semibold">Name here</div>
+            <div class="ml-4 text-lg text-gray-600 leading-7 font-semibold">Sampada w/o Mahadeo Mother name: Bebitai</div>
         </div>
 	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse porttitor aliquam ante nec congue. Pellentesque nec bibendum dui. Praesent laoreet ex ut vestibulum pulvinar. Curabitur sodales tempus ex eget tempor. Nulla urna urna, accumsan et felis aliquam, vestibulum facilisis purus. Donec mattis enim eget consequat consectetur. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla vel nisl at ipsum accumsan sodales. Nullam feugiat varius tellus eu consectetur. Integer nec dui ac odio gravida aliquam non eget nulla. Pellentesque luctus orci neque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Cras sit amet sem ac enim sagittis condimentum. Cras a nibh consequat, laoreet justo eu, euismod ligula. Praesent at sodales nisi, sed consequat dolor.</p>
 </div>
@@ -108,7 +108,7 @@
 
     <div class="p-6 border-t border-gray-200 md:border-l">
         <div class="flex items-center">
-            <div class="ml-4 text-lg text-gray-600 leading-7 font-semibold">Name here</div>
+            <div class="ml-4 text-lg text-gray-600 leading-7 font-semibold">Ameet s/o Mahadeo Mother name: sampada</div>
         </div>
 		<p>Curabitur finibus ex scelerisque, tempus metus non, sagittis justo. Vivamus maximus feugiat massa, in lacinia lacus fermentum quis. Maecenas sodales lorem lectus, eu porttitor libero tempus et. Curabitur faucibus erat a lacus interdum hendrerit. Pellentesque facilisis lectus in eleifend sodales. Fusce iaculis turpis aliquet quam pellentesque ullamcorper. Duis in placerat nibh.</P>
 		</div>
@@ -127,7 +127,7 @@
 
     <div class="p-6 border-t border-gray-200 md:border-l">
         <div class="flex items-center">
-            <div class="ml-4 text-lg text-gray-600 leading-7 font-semibold">Name here</div>
+            <div class="ml-4 text-lg text-gray-600 leading-7 font-semibold">Ajit s/o Mahadeo Mother name: Sampada</div>
         </div>
 		<p>Vestibulum nisl magna, lacinia a urna id, maximus pulvinar purus. Aliquam bibendum a neque semper dictum. In hac habitasse platea dictumst. Quisque suscipit, odio vitae hendrerit aliquam, velit risus iaculis neque, eget iaculis nisi orci in eros. Vestibulum eget nisl ut odio convallis dapibus. Pellentesque accumsan aliquam ipsum ut porta. Phasellus molestie quis ipsum vel commodo.
 
@@ -148,7 +148,7 @@
 
     <div class="p-6 border-t border-gray-200 md:border-l">
         <div class="flex items-center">
-            <div class="ml-4 text-lg text-gray-600 leading-7 font-semibold">Name here</div>
+            <div class="ml-4 text-lg text-gray-600 leading-7 font-semibold">Bapusaheb s/o Maruti Mother name: Housabai</div>
         </div>
 		<p>Sed mi enim, interdum sed ornare a, gravida sit amet ligula. Nullam consequat consequat justo, ac dictum est sollicitudin et. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ac nisl augue. Morbi feugiat nibh non iaculis convallis. Quisque sagittis est egestas, congue eros quis, tincidunt tellus. Fusce sagittis sapien nec velit vulputate fringilla. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam et euismod ipsum. Nulla bibendum erat ut cursus egestas. Nulla vehicula nisi sed maximus efficitur. Cras id tincidunt massa. Maecenas tincidunt mi mi, a euismod quam gravida elementum. Sed metus nisl, cursus et volutpat eget, viverra ut est.
 
