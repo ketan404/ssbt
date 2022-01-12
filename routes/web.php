@@ -60,11 +60,6 @@ Route::middleware(['auth:sanctum', 'verified'])->get('/dashboard','\App\Http\Con
 Route::middleware(['auth:sanctum', 'verified'])->get('/account/profile/{profile_id}',[ProfileController::class,'addEditProfile'])->name('profile'); 
 Route::middleware(['auth:sanctum', 'verified'])->post('/saveprofile',[ProfileController::class,'save']); 
 
-//Stripe
-Route::middleware(['auth:sanctum', 'verified'])->get('/plans', '\App\Http\Controllers\SubscriptionController@index')->name('plans');
-Route::middleware(['auth:sanctum', 'verified'])->get('/payments/{plan}', '\App\Http\Controllers\PaymentController@index')->name('paments');
-Route::middleware(['auth:sanctum', 'verified'])->post('/savepayments', '\App\Http\Controllers\PaymentController@store');
-
 //Admin
 Route::middleware(['admin'])->group(function (){
 	Route::get('/admin/users', [AdminController::class,'users'])->name('user_management');
